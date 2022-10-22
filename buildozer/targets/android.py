@@ -60,7 +60,7 @@ MSG_P4A_RECOMMENDED_NDK_ERROR = (
 class TargetAndroid(Target):
     targetname = 'android'
     p4a_directory_name = "python-for-android"
-    p4a_fork = 'kivy'
+    p4a_fork = 'tytgatlieven'
     p4a_branch = 'develop'
     p4a_commit = 'HEAD'
     p4a_recommended_ndk_version = None
